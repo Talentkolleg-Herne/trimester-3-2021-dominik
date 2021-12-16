@@ -1,0 +1,23 @@
+{
+  "id": 45,
+  "name": "SG Muster",
+  "sportart": "Leichtathletik",
+  "mitgliedsanzahl": 108,
+  "vorstand": {
+    "1. Geschäftsführer": "",
+    "2. Geschäftsführer": "",
+    "Kassierer": ""
+  },
+  "zusätzliche_rollen": {
+    "Gleichberechtigungsbeauftragter": "",
+    "Spielleiter": ""
+  },
+  "beiträge": {
+    "jugend": 5,
+    "damen": 8,
+    "herren": 8,
+    "familien": 25
+  },
+  "anschrift": "Musterhausen Mustermannstraße 5",
+  "vereins": 10
+}

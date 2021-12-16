@@ -1,0 +1,43 @@
+[
+  {
+    "mannschaft": 10,
+    "name": "Mustermann",
+    "vorname": "Max",
+    "position": "",
+    "geburtsdatum": "09-10-1990",
+    "adresse": {
+      "plz": 10000,
+      "straße": "",
+      "ort": "",
+      "hausnummer": "",
+      "adresszusatz": ""
+    },
+    "mitglied_seid": "09-10-1990",
+    "spielerdaten": {
+      "komplett selbstgefplegt": "",
+      "linkshänder": false,
+      "linksfüßer": false,
+      "blutgruppe": ""
+    }
+  },
+  {
+    "name": "Mustermann",
+    "vorname": "Max",
+    "position": "",
+    "geburtsdatum": "09-10-1990",
+    "adresse": {
+      "plz": 10000,
+      "straße": "",
+      "ort": "",
+      "hausnummer": "",
+      "adresszusatz": ""
+    },
+    "mitglied_seid": "09-10-1990",
+    "spielerdaten": {
+      "komplett selbstgefplegt": "",
+      "linkshänder": false,
+      "linksfüßer": false,
+      "blutgruppe": ""
+    }
+  }
+]

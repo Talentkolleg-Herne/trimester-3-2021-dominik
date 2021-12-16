@@ -1,0 +1,25 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "28.10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talentkolleg-Herne/trimester-3-2021-dominik.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talentkolleg-Herne/trimester-3-2021-dominik/issues"
+  },
+  "homepage": "https://github.com/Talentkolleg-Herne/trimester-3-2021-dominik#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.4",
+    "mongoose": "^6.0.12"
+  }
+}
